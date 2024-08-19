@@ -5,7 +5,7 @@ This is a web based application developed for health related to hair care slot b
 This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 # Project Link -https://happy-grass-003e38e00.2.azurestaticapps.net
 
-# project demo video link - https://youtu.be/ONF2TFodx0Y
+
 
 # Azure technologies used for Project
 Static web apps
